@@ -3,3 +3,7 @@ function tocaSomPom () {
 }
 
 document.querySelectorAll('.tecla');
+
+// Criando uma REFERÊNCIA CONSTANTE
+
+const listaDeTeclas = document.querySelectorAll('.tecla');
